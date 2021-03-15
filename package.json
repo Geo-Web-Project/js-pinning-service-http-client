@@ -1,6 +1,6 @@
 {
   "name": "js-pinning-service-http-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./openapi/dist/index.js",
   "typings": "./openapi/dist/index.d.ts",
