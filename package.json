@@ -3,12 +3,16 @@
   "version": "1.0.1",
   "description": "",
   "main": "./openapi/dist/index.js",
+  "typings": "./openapi/dist/index.d.ts",
   "scripts": {
     "build": "npm --prefix openapi run build",
     "test": "npm --prefix openapi test"
   },
   "author": "Cody Hatfield (@codynhat)",
   "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
   "devDependencies": {
     "@openapitools/openapi-generator-cli": "^2.2.2"
   }
