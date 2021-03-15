@@ -2,7 +2,7 @@
 
 An IPFS Pinning Service HTTP Client
 
-> This repo contains an implementation of a client for the IPFS Pinning Services API Spec
+> This repo contains an implementation of a client for the [IPFS Pinning Services API Spec](https://github.com/ipfs/pinning-services-api-spec)
 
 This client uses the [typescript-axios](https://openapi-generator.tech/docs/generators/typescript-axios) OpenAPI generator.
 
